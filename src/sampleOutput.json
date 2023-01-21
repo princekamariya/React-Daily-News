@@ -1,0 +1,54 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "Khanyiso Tshwaku",
+      "title": "Langeveldt to leave Proteas men's team while Maketa's future to be debated",
+      "description": "Cricket South Africa's director of cricket Enoch Nkwe confirmed that bowling coach Charl Langeveldt would not be part of the new Proteas men's team coaching dispensation.",
+      "url": "https://www.news24.com/sport/cricket/proteas/langeveldt-to-leave-proteas-mens-team-while-maketas-future-to-be-debated-20230116",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/2131/47fdb2e39d3345d8a7c74639df5913f6.jpg",
+      "publishedAt": "2023-01-16T21:34:22+00:00",
+      "content": "<ul><li>Cricket South Africa's director of cricket Enoch Nkwe said bowling coach Charl Langeveldt wouldn't be part of the new split-format coaching dispensation.</li><li>Shukri Conrad and Rob Walter … [+2596 chars]"
+    },
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "Peter Lusted",
+      "title": "PNG a rising force in women's cricket as Lewas hone skills in Australia's Country Championships",
+      "description": "They have overcome monsoon rains, a lack of facilities and an unfair share of domestic chores, but PNG women are still climbing the world Twenty20 rankings.",
+      "url": "http://www.abc.net.au/news/2023-01-17/png-womens-cricket-team-joins-australian-championships/101859626",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/89c0a1856b2e9a087e1cc051f1af7608?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "publishedAt": "2023-01-16T19:35:28Z",
+      "content": "There's just one turf cricket pitch in Papua New Guinea, but that hasn't stopped the country's women's team rising to 12th in the world Twenty20 rankings.\r\nThe Lewas, as the national side are called,… [+2871 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
+ 
+business
+entertainment
+general
+health
+science
+sports
+technology
